@@ -31,6 +31,4 @@ public class FindPrime {
 		    System.out.println("so "+b+" is the next prime number");
 		}
 	}
-	     
-
 }
