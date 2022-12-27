@@ -22,6 +22,4 @@ public class Samsung extends Phone{
 		user1.ram();
 		user1.rom();
 	}
-
-
 }
