@@ -12,7 +12,6 @@ public class Samsung extends Phone{
 	public void msg(String name) {
 		// TODO Auto-generated method stub
 		System.out.println("message is succesfully sent to "+name);
-		
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
