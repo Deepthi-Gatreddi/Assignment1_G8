@@ -7,7 +7,6 @@ public class Samsung extends Phone{
 		System.out.println("calling to "+name);
 		
 	}
-
 	@Override
 	public void msg(String name) {
 		// TODO Auto-generated method stub
